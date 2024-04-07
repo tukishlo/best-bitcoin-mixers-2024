@@ -28,7 +28,7 @@
 
 - [Coinomize](http://coino2y6gzp73p2lhlwg5rbfzwm4masubyuo6nwyyrhjlhfo7rnvwsad.onion) - `http://coino2y6gzp73p2lhlwg5rbfzwm4masubyuo6nwyyrhjlhfo7rnvwsad.onion`
 
-<img src="https://github.com/tukishlo/best-bitcoin-mixers-2024/assets/153882759/f9442876-3fd7-4a42-b6ee-6716ac202939" width="600">
+<img src="https://github.com/tukishlo/best-bitcoin-mixers-2024/assets/153882759/f9442876-3fd7-4a42-b6ee-6716ac202939" width="480">
 
 - [UniJoin](http://unijoin4q6vhhc2l777ki2lfxzgnsyixgndvbqis3nommfi7eevquqyd.onion) - `http://unijoin4q6vhhc2l777ki2lfxzgnsyixgndvbqis3nommfi7eevquqyd.onion`
 
