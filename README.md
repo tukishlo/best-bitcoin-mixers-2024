@@ -42,9 +42,6 @@
 <img src="https://github.com/tukishlo/best-bitcoin-mixers-2024/assets/153882759/da9dd6bc-60cf-4fcb-a5b0-c4f80f87254a" width="600">
 
 - [Mixer Money](http://mixermyvv2m4oalyat4vk567eogyf7aflbleta5bzyuhdylxighq3pid.onion) - `http://mixermyvv2m4oalyat4vk567eogyf7aflbleta5bzyuhdylxighq3pid.onion`
-    - Accepted Cryptocurrency: Bitcoin
-
-<img src="[https://github.com/tukishlo/best-bitcoin-mixers-2024/assets/153882759/da9dd6bc-60cf-4fcb-a5b0-c4f80f87254a](https://github.com/tukishlo/best-bitcoin-mixers-2024/assets/153882759/a8e30ead-682f-4fc6-b428-bb137da15a69)" width="600">
 
 - [Mixtura](http://3lqpiyxwwbwdrdbjjftmjykgu4svk3hualx2ve5umgrljth5oqhhrlyd.onion) - `http://3lqpiyxwwbwdrdbjjftmjykgu4svk3hualx2ve5umgrljth5oqhhrlyd.onion`
 
