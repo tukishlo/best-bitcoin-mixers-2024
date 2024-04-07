@@ -27,7 +27,7 @@
 ## Bitcoin Mixers
 
 - [Coinomize](http://coino2y6gzp73p2lhlwg5rbfzwm4masubyuo6nwyyrhjlhfo7rnvwsad.onion) - `http://coino2y6gzp73p2lhlwg5rbfzwm4masubyuo6nwyyrhjlhfo7rnvwsad.onion`
-- Accepted Cryptocurrency: Bitcoin, Monero, Ethereum
+  - Accepted Cryptocurrency: Bitcoin, Monero, Ethereum
 
 <img src="https://github.com/tukishlo/best-bitcoin-mixers-2024/assets/153882759/f9442876-3fd7-4a42-b6ee-6716ac202939" width="600">
 
