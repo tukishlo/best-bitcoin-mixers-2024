@@ -27,19 +27,10 @@
 ## Bitcoin Mixers
 
 - [Coinomize](http://coino2y6gzp73p2lhlwg5rbfzwm4masubyuo6nwyyrhjlhfo7rnvwsad.onion) - `http://coino2y6gzp73p2lhlwg5rbfzwm4masubyuo6nwyyrhjlhfo7rnvwsad.onion`
-  - Accepted Cryptocurrency: Bitcoin, Monero, Ethereum
-
-<img src="https://github.com/tukishlo/best-bitcoin-mixers-2024/assets/153882759/f9442876-3fd7-4a42-b6ee-6716ac202939" width="600">
 
 - [UniJoin](http://unijoin4q6vhhc2l777ki2lfxzgnsyixgndvbqis3nommfi7eevquqyd.onion) - `http://unijoin4q6vhhc2l777ki2lfxzgnsyixgndvbqis3nommfi7eevquqyd.onion`
-  - Accepted Cryptocurrency: Bitcoin
-
-<img src="https://github.com/tukishlo/best-bitcoin-mixers-2024/assets/153882759/c5b7d5ab-c651-4468-ba6d-5f0ed1501046" width="600">
 
 - [Whir](http://whirtorv6cyap4fokfuirvl4vzlmkzwviji3jojczoxpkvoumoblvxad.onion) - `http://whirtorv6cyap4fokfuirvl4vzlmkzwviji3jojczoxpkvoumoblvxad.onion`
-  - Accepted Cryptocurrency: Bitcoin
-
-<img src="https://github.com/tukishlo/best-bitcoin-mixers-2024/assets/153882759/da9dd6bc-60cf-4fcb-a5b0-c4f80f87254a" width="600">
 
 - [Mixer Money](http://mixermyvv2m4oalyat4vk567eogyf7aflbleta5bzyuhdylxighq3pid.onion) - `http://mixermyvv2m4oalyat4vk567eogyf7aflbleta5bzyuhdylxighq3pid.onion`
 
